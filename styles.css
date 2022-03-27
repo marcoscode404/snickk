@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    left: 0;
+    box-sizing: border-box;
+}
+
+
+
+.svgg {
+    height: auto;
+    /* background-color:  #58497c; */
+    padding: 0;
+    width: min(60rem, 100%);
+}
